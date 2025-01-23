@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LoginApp</string>
+    <string name="splash_logo_desc">Splash screen logo</string>
+    <string name="splash_text">Final Projesi</string>
 </resources>
